@@ -1,13 +1,12 @@
-# 1. 7-Zip-Fluent
+# 7-Zip-Fluent
 
 [![NuGet version (7-Zip-Fluent)](https://img.shields.io/nuget/v/7-Zip-Fluent.svg?style=flat-square)](https://www.nuget.org/packages/7-Zip-Fluent/)
-https://www.nuget.org/packages//
 
 7-Zip command line fluent interface builder
 
 <!-- TOC -->
 
-- [1. 7-Zip-Fluent](#1-7-zip-fluent)
+- [7-Zip-Fluent](#7-zip-fluent)
 - [2. Features](#2-features)
     - [2.1. Generation type](#21-generation-type)
     - [2.2. Commands](#22-commands)
