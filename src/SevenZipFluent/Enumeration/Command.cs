@@ -18,7 +18,7 @@ namespace SevenZipFluent.Enumeration
         Delete,
 
         /// <summary>
-        /// https://sevenzip.osdn.jp/chm/cmdline/commands/extract.htm
+        /// <see cref="https://sevenzip.osdn.jp/chm/cmdline/commands/extract.htm"/>
         /// </summary>
         [Description("e")]
         Extract,
