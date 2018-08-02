@@ -7,6 +7,8 @@ using SevenZipFluent.Enumeration;
 
 namespace SevenZipFluent
 {
+    // https://stackoverflow.com/questions/1025863/read-content-of-rar-files-using-c-sharp/1025934#1025934
+
     internal class SevenZip
     {
         public Command Command { get; set; }

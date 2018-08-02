@@ -5,7 +5,15 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C91C7F83-65B1-4689-92C7-675B225D4FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZipFluent", "src\SevenZipFluent\SevenZipFluent.csproj", "{B7A4F50A-F368-4DA3-B044-366FF72A0BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenZipFluent", "src\SevenZipFluent\SevenZipFluent.csproj", "{B7A4F50A-F368-4DA3-B044-366FF72A0BC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A153E98-686B-4BDD-9F0E-3E6D73DFD69F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		deploy-src.cmd = deploy-src.cmd
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
