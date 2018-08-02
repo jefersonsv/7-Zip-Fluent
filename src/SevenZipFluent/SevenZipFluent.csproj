@@ -8,7 +8,7 @@
     <PackageId>7-Zip-Fluent</PackageId>
     <Product>7-Zip-Fluent</Product>
     <Description>7-Zip command line fluent interface builder</Description>
-    <PackageLicenseUrl>https://choosealicense.com/licenses/mit</PackageLicenseUrl>
+    <PackageLicenseUrl>https://gep13.mit-license.org/</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jefersonsv/7-Zip-Fluent</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jefersonsv/7-Zip-Fluent</RepositoryUrl>
     <PackageTags>7-zip 7zip 7z zip cmd command line</PackageTags>

@@ -1,6 +1,6 @@
 # 7-Zip-Fluent
 
-[![NuGet version (7-Zip-Fluent)](https://img.shields.io/nuget/v/7-Zip-Fluent.svg?style=flat-square)](https://www.nuget.org/packages/7-Zip-Fluent/)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://gep13.mit-license.org) [![NuGet version (7-Zip-Fluent)](https://img.shields.io/nuget/v/7-Zip-Fluent.svg?style=flat-square)](https://www.nuget.org/packages/7-Zip-Fluent/)
 
 7-Zip command line fluent interface builder
 
