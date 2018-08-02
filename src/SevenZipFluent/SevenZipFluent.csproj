@@ -10,8 +10,11 @@
     <Description>7-Zip command line fluent interface builder</Description>
     <PackageLicenseUrl>https://gep13.mit-license.org/</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jefersonsv/7-Zip-Fluent</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/jefersonsv/7-Zip-Fluent</RepositoryUrl>
+    <RepositoryUrl>https://github.com/jefersonsv/7-Zip-Fluent.git</RepositoryUrl>
     <PackageTags>7-zip 7zip 7z zip cmd command line</PackageTags>
+    <Copyright>Copyright © Jeferson Tenorio</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <NeutralLanguage>English</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
